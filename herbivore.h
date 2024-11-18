@@ -1,9 +1,4 @@
-/*
- * Name: Finnagin Wantland, 2002196609, 1001, Assignment 5
- * Description: Assignment 5 Ash goes Fishing
- * Input: csv file and command line arguements
- * Output: end of the simulation data
- */
+
 #ifndef HERBIVORE_H
 #define HERBIVORE_H
 
